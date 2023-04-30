@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-#     - cron:  '6 16 * * 0'
+    - cron:  '12 19 * * 0'
 
 jobs:
   scheduled:
@@ -14,7 +14,16 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://www.example.com/data.json | jq . > data.json
+        for LOCALE in 'au' 'ca' 'fr' 'de' 'in' 'id' 'it' 'jp' 'mx' 'ru' 'sa' 'za' 'kr' 'tr' 'gb' 'us'
+        do
+          for ENGINE in 'b' 'g' 'd' 'y' 'yt' 'br'
+          do
+            for PHRASE in 'who+is+'
+            do
+              mkdir -p "data/$PHRASE" && curl "https://whatdoyousuggest.net/api/$ENGINE?q=$PHRASE&l=$LOCALE" | jq . > "data/$PHRASE/$ENGINE-$LOCALE.json"
+            done
+          done
+        done
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
