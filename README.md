@@ -4,6 +4,6 @@ This repository records a history of auto-complete suggestions for selected phra
 
 If you'd like to explore current suggestions, see [What do you suggest?](https://whatdoyousuggest.net).
 
-This repository uses a simple scraping techinque powered by GitHub actions and [pioneered by Simon Wilson](https://simonwillison.net/2020/Oct/9/git-scraping/).
+This repository uses a simple scraping techinque powered by GitHub actions and [pioneered by Simon Willison](https://simonwillison.net/2020/Oct/9/git-scraping/).
 
 Want to add a phrase to track? Throw it in the issue tracker (or even better, create a PR).
