@@ -18,7 +18,7 @@ jobs:
         do
           for ENGINE in 'b' 'g' 'd' 'y' 'yt' 'br'
           do
-            for PHRASE in 'a' 'b' 'c' 'd' 'e' 'f' 'g' 'h' 'i' 'j' 'k' 'l' 'm' 'n' 'o' 'p' 'q' 'r' 's' 't' 'u' 'v' 'w' 'x' 'y' 'z' 'who+is+' 'how+to+b' 'how+do+'
+            for PHRASE in 'a' 'b' 'c' 'd' 'e' 'f' 'g' 'h' 'i' 'j' 'k' 'l' 'm' 'n' 'o' 'p' 'q' 'r' 's' 't' 'u' 'v' 'w' 'x' 'y' 'z' 'who+is+' 'how+to+b' 'how+do+' 'commonwealth+games+'
             do
               mkdir -p "data/$PHRASE" && curl "https://whatdoyousuggest.net/api/$ENGINE?q=$PHRASE&l=$LOCALE" | jq . > "data/$PHRASE/$ENGINE-$LOCALE.json"
             done
