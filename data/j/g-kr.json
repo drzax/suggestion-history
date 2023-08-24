@@ -1,9 +1,8 @@
 [
   "jtbc",
   "jtbc 뉴스룸",
+  "jtwc",
   "jpg to pdf",
-  "jpa",
-  "jp모건",
   "jlpt",
   "jira",
   "java",
@@ -11,7 +10,8 @@
   "jobkorea",
   "jstris",
   "json",
-  "jcr",
   "jmana",
-  "jquery"
+  "jcr",
+  "jquery",
+  "jwt"
 ]
