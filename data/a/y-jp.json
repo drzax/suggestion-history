@@ -1,3 +1,4 @@
 {
-  "message": "Internal Error"
+  "errorMessage": "RequestId: 81b8f977-4c27-48cf-b3a3-2c6bc41e80e4 Error: Runtime exited without providing a reason",
+  "errorType": "Runtime.ExitError"
 }
