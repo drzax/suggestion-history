@@ -1,10 +1,4 @@
-[
-  "maps",
-  "mortgage calculator",
-  "my maps",
-  "max",
-  "microcenter",
-  "microsoft",
-  "msn",
-  "mm to inches"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2024-01-21T19:25:56.767Z a474a838-51ff-4e67-ad6b-fecf01006ee2 Task timed out after 10.01 seconds"
+}
