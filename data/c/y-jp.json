@@ -1,3 +1,4 @@
 {
-  "message": "Internal Error"
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2024-03-25T19:22:38.876Z 4bbc3c74-b530-4a80-8499-ed7fee36229f Task timed out after 10.02 seconds"
 }
