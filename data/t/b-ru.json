@@ -1,6 +1,5 @@
 [
   "telegram",
-  "torzon",
   "twitch",
   "tiktok",
   "torrent",
@@ -8,5 +7,6 @@
   "tlauncher",
   "translate",
   "twitter",
-  "teams"
+  "teams",
+  "teamviewer"
 ]
