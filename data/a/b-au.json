@@ -1,12 +1,4 @@
-[
-  "afl ladder 2024",
-  "anz",
-  "abc news",
-  "anz login",
-  "abn lookup",
-  "afl live scores",
-  "amazon",
-  "airbnb",
-  "afl news and updates on the ladder race",
-  "afl ladder history and trends"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2024-08-05T19:19:26.609Z 3fdc6f31-df66-4b1f-85ca-53f494ac127c Task timed out after 10.01 seconds"
+}

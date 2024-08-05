@@ -1,12 +1,4 @@
-[
-  "donald trump",
-  "discord",
-  "disney plus",
-  "daily mail",
-  "dropbox",
-  "david jones",
-  "dan murphy's",
-  "domino's",
-  "duckduckgo",
-  "duolingo"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2024-08-05T19:19:38.224Z a3a97985-2c48-4769-9e8e-8f7ba1fdaba8 Task timed out after 10.01 seconds"
+}
