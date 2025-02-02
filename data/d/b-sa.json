@@ -1,5 +1,4 @@
 [
-  "deepseek",
   "discord",
   "drive",
   "deepl",
@@ -10,5 +9,6 @@
   "dailymotion",
   "dzrt",
   "dxdiag",
-  "draw simulated selfhost"
+  "draw simulated selfhost",
+  "ds4windows"
 ]
