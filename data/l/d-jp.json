@@ -1,10 +1,4 @@
-[
-  "line pc ダウンロード",
-  "lineworks",
-  "linkedin",
-  "lpga",
-  "line ログイン",
-  "livedoor",
-  "lol",
-  "lenovo"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:53:19.480Z 98baef84-55df-44a6-b016-b13b583b2305 Task timed out after 10.03 seconds"
+}

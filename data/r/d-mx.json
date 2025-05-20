@@ -1,10 +1,4 @@
-[
-  "roblox",
-  "rojadirecta",
-  "rfc",
-  "rufus",
-  "reddit",
-  "radio en vivo",
-  "real madrid",
-  "riot games"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:59:22.838Z b39f5fd6-e578-4e72-b929-dc41d1a458fd Task timed out after 10.03 seconds"
+}

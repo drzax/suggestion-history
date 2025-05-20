@@ -1,10 +1,4 @@
-[
-  "usd to cad",
-  "uline",
-  "ups tracking",
-  "ups",
-  "udemy",
-  "ubisoft",
-  "ufile",
-  "ufc"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:28:11.803Z 0fc4c116-37ae-46da-96b1-18743e70d4b4 Task timed out after 10.03 seconds"
+}

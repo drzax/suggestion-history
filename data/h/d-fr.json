@@ -1,10 +1,4 @@
-[
-  "hotmail",
-  "hello work",
-  "hotmail sign in",
-  "h et m femme",
-  "h&m",
-  "hp smart",
-  "harmonie mutuelle",
-  "hello bank"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:31:24.643Z e1dda81b-5e82-4c52-88dd-6131754abc56 Task timed out after 10.03 seconds"
+}

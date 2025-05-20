@@ -1,10 +1,4 @@
-[
-  "deepl",
-  "doctolib",
-  "discord",
-  "dakota johnson",
-  "db fahrplan 2025",
-  "deepseek",
-  "deutsche bahn",
-  "dazn"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:35:48.444Z cdcd0355-de97-4b3b-82cc-486491066cf7 Task timed out after 10.03 seconds"
+}

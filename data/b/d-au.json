@@ -1,10 +1,4 @@
-[
-  "bunnings",
-  "big w online",
-  "bcf australia",
-  "bing",
-  "bmi calculator australia",
-  "bbc",
-  "bbc news",
-  "bom radar"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:20:25.321Z dd040bbb-61be-4d7c-bfd8-58c50925059a Task timed out after 10.03 seconds"
+}

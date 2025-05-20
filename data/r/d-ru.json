@@ -1,10 +1,4 @@
-[
-  "roblox",
-  "rutube",
-  "rufus",
-  "razer",
-  "red magic",
-  "radmin vpn",
-  "rockstar games",
-  "regedit"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:04:08.437Z 7b0de57a-d1d5-4d09-9b2b-44a194f0fd2c Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "urssaf mon compte",
-  "ubisoft",
-  "ulys mon compte",
-  "urssaf auto entrepreneur",
-  "uber eats",
-  "ups",
-  "uniqlo",
-  "utorrent"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:33:37.807Z 09e9c665-ec80-402e-ba52-14acd0f10a6b Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "joe biden",
-  "joyn login",
-  "jysk online",
-  "jobrad login",
-  "join",
-  "java",
-  "jobbörse agentur für arbeit",
-  "jobbörse"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:36:29.387Z eefa6b76-6d84-4f1f-8979-cad8cc2176ea Task timed out after 10.03 seconds"
+}

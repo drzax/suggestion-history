@@ -1,10 +1,4 @@
-[
-  "instagram",
-  "ilovepdf",
-  "infonavit",
-  "indeed",
-  "icloud",
-  "idse imss",
-  "imss digital",
-  "itunes"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:58:00.918Z 8975ae60-15a9-474c-912e-01aac4bbf9bd Task timed out after 10.03 seconds"
+}

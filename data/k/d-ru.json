@@ -1,10 +1,4 @@
-[
-  "kahoot",
-  "keepass",
-  "kamera",
-  "krita",
-  "kaspersky",
-  "kundalik kom krish",
-  "kundalik ga kirish",
-  "kms"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:03:06.966Z 17ba55a9-caf2-4355-ae46-41a3ccaaf376 Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "facebook",
-  "fixedfloat crypto",
-  "figma",
-  "funpay",
-  "faceit",
-  "firefox",
-  "fb",
-  "filezilla"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:02:25.960Z 12f294dd-6d0c-4db5-b354-614dec789e9d Task timed out after 10.03 seconds"
+}

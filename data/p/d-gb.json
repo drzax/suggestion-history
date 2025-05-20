@@ -1,10 +1,4 @@
-[
-  "pinterest",
-  "poki",
-  "paylocity",
-  "pga championship 2025",
-  "publix",
-  "paypal",
-  "prime video",
-  "pandora"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:27:09.175Z 96042ef7-3e07-4dc1-a665-2ec43ea7e0eb Task timed out after 10.03 seconds"
+}

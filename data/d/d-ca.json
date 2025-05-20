@@ -1,10 +1,4 @@
-[
-  "discord",
-  "disney plus",
-  "duckduckgo",
-  "dexscreener",
-  "deepseek",
-  "dropbox",
-  "drive",
-  "donald trump"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:25:48.686Z 9734010a-5b21-4524-9722-17f49fdb2ddb Task timed out after 10.03 seconds"
+}

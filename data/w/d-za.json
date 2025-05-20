@@ -1,10 +1,4 @@
-[
-  "whatsapp web",
-  "whatsapp",
-  "we buy cars",
-  "www.google.com search",
-  "wells fargo login",
-  "whatsapp download",
-  "wetransfer",
-  "weather"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:13:58.202Z 3f8662e2-bb4e-4c97-a538-782ce7738b68 Task timed out after 10.03 seconds"
+}

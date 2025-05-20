@@ -1,9 +1,4 @@
-[
-  "xfinity",
-  "xfinity login",
-  "xbox",
-  "xfinity email",
-  "xbox cloud gaming",
-  "xampp",
-  "xrp"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:18:30.564Z 49b147f7-f5a0-4a45-bda6-4274ed890695 Task timed out after 10.03 seconds"
+}

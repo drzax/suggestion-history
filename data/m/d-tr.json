@@ -1,10 +1,4 @@
-[
-  "microsoft teams",
-  "mynet",
-  "minecraft",
-  "mail",
-  "mackolik",
-  "milliyet",
-  "maps",
-  "msconfig"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:21:53.862Z 01b1130c-3adb-46b8-8d19-ed3ec328652a Task timed out after 10.03 seconds"
+}

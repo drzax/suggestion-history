@@ -1,10 +1,4 @@
-[
-  "zoom meeting join",
-  "zoom",
-  "zoho mail",
-  "zomato",
-  "zerodha",
-  "zara",
-  "zee 5",
-  "zoho"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:43:47.424Z c8fbd320-1f6d-4629-9027-c05eb8efc8b3 Task timed out after 10.03 seconds"
+}

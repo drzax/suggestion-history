@@ -1,10 +1,4 @@
-[
-  "google",
-  "gmail",
-  "google maps",
-  "gimkit",
-  "google chrome",
-  "games",
-  "gmetrix",
-  "gimkit join"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:07:41.581Z 33db1c70-4457-4628-96ff-f289db20d64b Task timed out after 10.03 seconds"
+}

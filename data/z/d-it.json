@@ -1,10 +1,4 @@
-[
-  "zalando",
-  "zara",
-  "zoom",
-  "zanichelli",
-  "zalando prive",
-  "zucchetti",
-  "z library",
-  "zooplus"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:50:37.507Z 9a0b3511-36ac-4c06-9049-a835f15c943b Task timed out after 10.03 seconds"
+}

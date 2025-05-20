@@ -1,10 +1,4 @@
-[
-  "discord",
-  "docusign",
-  "duckduckgo",
-  "desmos",
-  "daily mail",
-  "disney plus",
-  "doordash",
-  "docs"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:30:19.998Z d7ea465e-f81f-437f-9855-8211ca0855cb Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "hollywoodbets login mobile",
-  "hotmail",
-  "hianime",
-  "hollywoodbets",
-  "hdtoday",
-  "hotmail sign in",
-  "humanize ai",
-  "hollywoodbets login"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:11:55.271Z 9e58b425-cdcd-419a-838c-daab3c6e6a72 Task timed out after 10.03 seconds"
+}

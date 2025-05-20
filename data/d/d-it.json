@@ -1,10 +1,4 @@
-[
-  "drive",
-  "deepl",
-  "dazn",
-  "diretta",
-  "dagospia",
-  "download",
-  "discord",
-  "deepseek"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:47:43.388Z 02d00596-2142-4981-a380-de393bdb5010 Task timed out after 10.03 seconds"
+}

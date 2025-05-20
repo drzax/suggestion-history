@@ -1,10 +1,4 @@
-[
-  "netflix",
-  "nvidia",
-  "now",
-  "ntv",
-  "netflix giriş",
-  "notepad",
-  "notion",
-  "ninite"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:22:04.188Z 81f8c6aa-f489-44c4-8003-5a25a318cbb6 Task timed out after 10.03 seconds"
+}

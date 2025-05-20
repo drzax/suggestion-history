@@ -1,10 +1,4 @@
-[
-  "youtube",
-  "yandex",
-  "youtube shorts",
-  "youtube music",
-  "youtube olami",
-  "yahoo",
-  "yandex browser",
-  "yandex games"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:05:20.245Z 366b3159-9370-4fb3-b4c4-d588b103ed04 Task timed out after 10.03 seconds"
+}

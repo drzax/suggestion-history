@@ -1,10 +1,4 @@
-[
-  "showmax",
-  "spotify",
-  "shein",
-  "sars efiling login",
-  "steam",
-  "sassa r350 status check",
-  "sage login",
-  "standard bank"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:13:17.272Z 522e8377-63e8-4e33-bd14-cdbbf0f6af0c Task timed out after 10.03 seconds"
+}

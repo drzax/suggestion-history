@@ -1,10 +1,4 @@
-[
-  "whois ip",
-  "who is my ip",
-  "who is mod",
-  "who is your daddy",
-  "who is pluto the cartoon character",
-  "who is who",
-  "who is this man",
-  "who is mac"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:05:40.711Z 33e7da3d-8f36-48ce-aa65-529b2d7f40a8 Task timed out after 10.03 seconds"
+}

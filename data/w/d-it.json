@@ -1,10 +1,4 @@
-[
-  "whatsapp web",
-  "wetransfer",
-  "webmail aruba",
-  "whatsapp",
-  "webmail pec",
-  "wizz air",
-  "www.google.it",
-  "webdesk"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:50:06.674Z a2cbd702-1967-4a8d-a948-84bf59e8be14 Task timed out after 10.03 seconds"
+}

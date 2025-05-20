@@ -1,10 +1,4 @@
-[
-  "betway login",
-  "betway premiership table",
-  "betway",
-  "bing",
-  "bash",
-  "bluetooth",
-  "brave",
-  "bbc"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:10:53.721Z 2230042f-9ab8-4fd5-83cc-d7e4e3a02911 Task timed out after 10.03 seconds"
+}

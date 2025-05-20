@@ -1,10 +1,4 @@
-[
-  "le bon coin",
-  "louana franco",
-  "linkedin",
-  "la banque postale",
-  "leroy merlin",
-  "l'équipe",
-  "la poste",
-  "louane eurovision 2025"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:32:05.519Z 02fc1609-cb9a-4da1-9a51-841bbacebfcc Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "bing",
-  "bank of america login",
-  "best buy",
-  "biden cancer news",
-  "belk",
-  "britbox",
-  "blooket join",
-  "bluetooth"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:06:50.316Z 06877120-905c-4a8f-a4da-83241aa2f2bb Task timed out after 10.03 seconds"
+}

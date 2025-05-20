@@ -1,10 +1,4 @@
-[
-  "questo pc",
-  "qvc",
-  "quattroruote",
-  "quiz patente",
-  "queen",
-  "quizlet",
-  "qr code",
-  "quotazione oro"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:49:36.053Z b350a2f1-9748-4196-9ac3-2504e328255a Task timed out after 10.03 seconds"
+}

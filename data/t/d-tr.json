@@ -1,10 +1,4 @@
-[
-  "trendyol",
-  "telegram",
-  "translate",
-  "tiktok",
-  "twitter",
-  "twitch",
-  "temu",
-  "teamviewer"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:23:05.546Z 7f8a2678-842d-4e68-a5a2-74ff25faf2ab Task timed out after 10.03 seconds"
+}

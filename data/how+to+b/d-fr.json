@@ -1,10 +1,4 @@
-[
-  "how to balance tech and life",
-  "how to build a tech portfolio",
-  "how to build a computer from scratch",
-  "how to become a tech freelancer",
-  "how to block ads on my phone",
-  "how to become an actor/actress",
-  "how to build a gaming pc",
-  "how to backup software licenses"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:34:29.004Z f6efb2d8-2e63-4005-bb66-8c4579e5d4db Task timed out after 10.03 seconds"
+}

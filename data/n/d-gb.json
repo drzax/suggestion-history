@@ -1,10 +1,4 @@
-[
-  "netflix",
-  "notepad++",
-  "nitro type",
-  "nascar",
-  "nba playoffs 2025",
-  "news",
-  "ncaa softball tournament 2025",
-  "nearpod"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:26:48.716Z 076e0e6f-5258-47c0-84d6-d1c507f7c778 Task timed out after 10.03 seconds"
+}

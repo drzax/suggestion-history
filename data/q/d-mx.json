@@ -1,10 +1,4 @@
-[
-  "quitar fondo",
-  "quizizz",
-  "queen",
-  "qualitas",
-  "quote of the day",
-  "quizlet",
-  "qr",
-  "que significa"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:59:12.491Z 387e3cea-31af-404f-9475-9ba2b5c16512 Task timed out after 10.03 seconds"
+}

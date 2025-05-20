@@ -1,10 +1,4 @@
-[
-  "chat gpt",
-  "canva",
-  "calculatrice en ligne",
-  "cyclades connexion",
-  "cannes 2025 stars",
-  "chrome",
-  "cdiscount",
-  "credit agricole"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:30:33.609Z 1126532a-e101-4c7d-8394-e51f377f884e Task timed out after 10.03 seconds"
+}

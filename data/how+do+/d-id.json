@@ -1,10 +1,4 @@
-[
-  "how do tariffs work",
-  "how do i clear my cache",
-  "how do you do",
-  "how do i take a screenshot",
-  "how do i renew my passport",
-  "how do i know if i have a real id",
-  "how do tornadoes form",
-  "how do you say hi in spanish"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:46:30.708Z 75912353-c3b0-4e92-84ec-bfcdab18fde7 Task timed out after 10.03 seconds"
+}

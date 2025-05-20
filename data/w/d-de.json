@@ -1,10 +1,4 @@
-[
-  "web.de",
-  "whatsapp web",
-  "whatsapp",
-  "web.de login",
-  "wetteronline",
-  "www.google.de",
-  "welt",
-  "wikipedia"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:38:32.331Z 5e2294b4-4d40-4321-96ef-ad0ccb984c78 Task timed out after 10.03 seconds"
+}

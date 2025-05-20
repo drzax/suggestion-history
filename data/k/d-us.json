@@ -1,10 +1,4 @@
-[
-  "kohl's",
-  "kahoot",
-  "kayak",
-  "kbb car value",
-  "kraken crypto",
-  "kfc menu",
-  "kerassentials",
-  "khan academy"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:31:21.549Z ed039eca-420b-4070-9e9f-026c3f90b6d4 Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "buzón tributario",
-  "bbva",
-  "banorte",
-  "banamex",
-  "buque cuauhtémoc",
-  "bluetooth",
-  "brave",
-  "bing"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:56:49.164Z 0f0626c2-63c8-47d6-82fc-397518c04b07 Task timed out after 10.03 seconds"
+}

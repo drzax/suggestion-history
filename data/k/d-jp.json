@@ -1,10 +1,4 @@
-[
-  "kahoot",
-  "確定申告書等作成コーナー",
-  "カレンダー",
-  "キャンバ",
-  "カーセンサー",
-  "コントロールパネル",
-  "カレンダー 2025",
-  "クローム"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:53:09.344Z 0a2f3526-052e-4b90-bdf3-f848d17f9574 Task timed out after 10.03 seconds"
+}

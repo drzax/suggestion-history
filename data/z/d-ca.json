@@ -1,10 +1,4 @@
-[
-  "zoom",
-  "zak starkey",
-  "zara",
-  "zoom login",
-  "zero gpt",
-  "zoom download",
-  "zendaya",
-  "zoho"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:29:03.024Z edcb10f2-dd11-4e56-9462-430a78d0ec9d Task timed out after 10.03 seconds"
+}

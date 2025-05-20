@@ -1,10 +1,4 @@
-[
-  "erecprime",
-  "eyefortin",
-  "espn",
-  "etsy",
-  "ebay",
-  "expedia",
-  "excel",
-  "enterprise rent a car"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:07:21.116Z b3a981e4-fb32-4c7d-aae0-fed295ceca6e Task timed out after 10.03 seconds"
+}

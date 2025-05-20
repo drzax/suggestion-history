@@ -1,10 +1,4 @@
-[
-  "youtube",
-  "yahoo mail",
-  "yahoo",
-  "yahoo finance",
-  "youtube tv",
-  "yahoo news",
-  "yandex",
-  "yelp"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:28:31.107Z 50238065-d19c-4a0e-99af-6ffe1019c72b Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "hotmail",
-  "hub scuola",
-  "hotmail sign in",
-  "h&m",
-  "hp smart",
-  "hdblog",
-  "hp",
-  "hyundai"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:48:24.304Z 74128b15-0032-45c9-934f-32b505b18289 Task timed out after 10.03 seconds"
+}

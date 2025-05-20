@@ -1,10 +1,4 @@
-[
-  "how do tariffs work",
-  "how do i take a screenshot",
-  "how do you do",
-  "how do i clear my cache",
-  "how do you make slime",
-  "how do i get a passport",
-  "how do you say hi in spanish",
-  "how do i find my ip address"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:33:24.779Z 06eee75a-c206-4f95-a0ff-96f978399a99 Task timed out after 10.03 seconds"
+}

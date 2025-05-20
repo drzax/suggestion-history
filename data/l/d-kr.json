@@ -1,10 +1,4 @@
-[
-  "lowe's",
-  "linkedin",
-  "labcorp",
-  "lululemon",
-  "lands end",
-  "liberty university",
-  "lancaster puppies",
-  "logitech"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:16:58.347Z 47a1fa37-26b1-4f77-b1b0-5225b48f9c1b Task timed out after 10.03 seconds"
+}

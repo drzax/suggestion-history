@@ -1,10 +1,4 @@
-[
-  "verizon",
-  "vanguard login",
-  "vrbo",
-  "venmo login",
-  "vistaprint",
-  "val kilmer",
-  "valorant",
-  "visual studio"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:18:10.062Z d5364e21-7217-4859-adca-6273046e8c74 Task timed out after 10.03 seconds"
+}

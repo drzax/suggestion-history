@@ -1,10 +1,4 @@
-[
-  "teams login",
-  "tiktok",
-  "twitch",
-  "translate",
-  "td bank",
-  "target",
-  "turbotax",
-  "tubi tv"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:46:19.524Z b29d672e-bdaa-48e3-9fe9-3b0f28310158 Task timed out after 10.03 seconds"
+}

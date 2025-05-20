@@ -1,10 +1,4 @@
-[
-  "facebook",
-  "facebook accedi",
-  "formula 1",
-  "fineco",
-  "fascicolo sanitario elettronico",
-  "fatture in cloud",
-  "firefox",
-  "fb"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:48:03.852Z 372158ad-bc84-4099-a2b2-50aebd58511f Task timed out after 10.03 seconds"
+}

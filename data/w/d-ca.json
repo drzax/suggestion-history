@@ -1,10 +1,4 @@
-[
-  "whatsapp",
-  "walmart",
-  "wealthsimple",
-  "wordle",
-  "whatsapp web",
-  "who won american idol 2025",
-  "weather",
-  "wikipedia"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:28:32.262Z 621b306e-ac3a-4758-a6c6-bc185c964d58 Task timed out after 10.03 seconds"
+}

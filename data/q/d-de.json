@@ -1,10 +1,4 @@
-[
-  "qvc",
-  "qr code generator",
-  "quoka kleinanzeigen",
-  "quizlet",
-  "quillbot",
-  "queenstown murders serie",
-  "qwant suchmaschine",
-  "qatar airways"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:37:41.110Z 69f45a83-bd2a-4d21-966a-a05d9cb0e1af Task timed out after 10.03 seconds"
+}

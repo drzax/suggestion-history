@@ -1,10 +1,4 @@
-[
-  "viva",
-  "vix",
-  "valeria márquez",
-  "volaris",
-  "vivaaerobus",
-  "visual studio code",
-  "videos",
-  "valorant"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:00:03.789Z 8d1060ea-299f-4110-97c1-e3fb17ec6e51 Task timed out after 10.03 seconds"
+}

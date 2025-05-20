@@ -1,10 +1,4 @@
-[
-  "how do you do",
-  "how do i get viagra or cialis",
-  "how do i download word",
-  "how do i make money online",
-  "how do plants adapt to their environment",
-  "how do i get cialis",
-  "how do i see what's trending on bing & yahoo",
-  "how do i download excel"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:06:01.251Z 749717ec-d021-47b8-ae8c-f24f6e2f758c Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "amazon",
-  "ard mediathek",
-  "amazon prime",
-  "airbnb",
-  "ard livestream",
-  "autoscout24",
-  "aol",
-  "anton app"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:35:17.902Z ef49f649-0505-458c-b92c-6e31c9ee5c42 Task timed out after 10.03 seconds"
+}

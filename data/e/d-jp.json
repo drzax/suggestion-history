@@ -1,10 +1,4 @@
-[
-  "ex予約 ログイン",
-  "eltax ダイレクト納付",
-  "エクセル",
-  "e-tax",
-  "えきねっと",
-  "etc利用照会サービス",
-  "excel プルダウン設定",
-  "ecナビ"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:52:28.251Z cb879054-772a-475b-ba21-0550a595430e Task timed out after 10.03 seconds"
+}

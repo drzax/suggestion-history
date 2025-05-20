@@ -1,10 +1,4 @@
-[
-  "kmart",
-  "kahoot",
-  "kayo sports",
-  "kogan",
-  "kfc",
-  "kayo login",
-  "khan academy",
-  "kayo"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:21:37.034Z 04a18563-a977-4bda-ab9d-b08eee6ba4a5 Task timed out after 10.03 seconds"
+}

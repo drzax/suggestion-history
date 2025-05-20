@@ -1,10 +1,4 @@
-[
-  "typing club",
-  "tradingview",
-  "telegram web",
-  "teams web login",
-  "telegram",
-  "twitter",
-  "typing test",
-  "translate"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:42:56.327Z 5f360dac-4243-4c10-bb43-eaa31bde147f Task timed out after 10.02 seconds"
+}

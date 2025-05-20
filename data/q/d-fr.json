@@ -1,10 +1,4 @@
-[
-  "qwant moteur de recherche",
-  "qui a gagné l'eurovision 2025",
-  "quizlet",
-  "qonto",
-  "qr code",
-  "quillbot",
-  "qbittorrent",
-  "quizizz"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:32:56.847Z 95ac98c6-7988-4937-8f47-3a1d63ee30fb Task timed out after 10.03 seconds"
+}

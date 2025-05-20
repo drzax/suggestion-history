@@ -1,9 +1,4 @@
-[
-  "xbox",
-  "xbox game bar",
-  "xampp",
-  "xbox cloud gaming",
-  "xiaomi",
-  "xrp",
-  "xerox"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:23:46.498Z 88a74174-02c3-4bde-a94b-75abbcd5c128 Task timed out after 10.03 seconds"
+}

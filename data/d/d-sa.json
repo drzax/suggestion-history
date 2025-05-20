@@ -1,10 +1,4 @@
-[
-  "discord",
-  "duckduckgo",
-  "disney plus",
-  "delta air lines",
-  "dominos order online",
-  "docs",
-  "doordash",
-  "daily mail"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:07:10.766Z f6afcda7-fdc2-4087-bd99-3dc87450142e Task timed out after 10.03 seconds"
+}

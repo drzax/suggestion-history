@@ -1,10 +1,4 @@
-[
-  "netflix",
-  "nhl",
-  "nhl playoffs 2025",
-  "nvidia",
-  "nfl",
-  "nhl playoff scores 2025",
-  "nhl playoff times 2025",
-  "news"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:27:20.797Z ef156d65-7858-40e2-8782-1a431a0b4259 Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "netflix",
-  "ntv",
-  "netto prospekt zum blättern",
-  "nachrichten",
-  "netflix login",
-  "nvidia",
-  "nadja abd el farrag",
-  "notebook lm google"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:37:10.325Z 20188f66-f74c-46f0-ba4a-874cd9228e34 Task timed out after 10.03 seconds"
+}

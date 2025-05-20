@@ -1,10 +1,4 @@
-[
-  "zoom",
-  "zoom login",
-  "zoom download",
-  "zoho login",
-  "zara",
-  "zillow homes for sale",
-  "zar to usd",
-  "zero gpt"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:14:28.984Z 7b4e5455-512e-4e65-976a-9242b5ab9b24 Task timed out after 10.03 seconds"
+}

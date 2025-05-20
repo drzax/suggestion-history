@@ -1,10 +1,4 @@
-[
-  "google",
-  "gmail",
-  "google map",
-  "gemini",
-  "google chrome",
-  "gmail ログイン",
-  "google 翻訳",
-  "google drive"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:52:48.708Z d350289e-303a-43d6-bc55-8a08318ce102 Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "lowe's",
-  "linkedin",
-  "liberty university",
-  "labcorp",
-  "log into facebook",
-  "libby app",
-  "lululemon",
-  "lands end"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:31:31.874Z f7f1f55e-fd98-4bf4-8e4f-4d59b1d3b945 Task timed out after 10.03 seconds"
+}

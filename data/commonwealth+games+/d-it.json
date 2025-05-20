@@ -1,10 +1,4 @@
-[
-  "commonwealth games 2026",
-  "commonwealth games 2025",
-  "commonwealth games 2022",
-  "commonwealth games 2024",
-  "commonwealth games 1986",
-  "commonwealth games 2030",
-  "commonwealth games glasgow",
-  "commonwealth games federation"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:51:18.456Z a2a57e18-8b73-49a9-9b08-3c64a9873c15 Task timed out after 10.03 seconds"
+}

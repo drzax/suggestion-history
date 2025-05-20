@@ -1,10 +1,4 @@
-[
-  "teams login",
-  "twitch",
-  "tiktok",
-  "turbotax",
-  "tubi tv",
-  "twitter",
-  "tractor supply company",
-  "target"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:32:53.783Z 6be9f0ae-7780-42b1-aa1a-791b0cf797cb Task timed out after 10.03 seconds"
+}

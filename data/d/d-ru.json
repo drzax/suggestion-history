@@ -1,10 +1,4 @@
-[
-  "discord",
-  "dns",
-  "deepl",
-  "deepseek",
-  "dxdiag",
-  "directx",
-  "dota 2",
-  "drive"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:02:05.488Z 4ce7686f-01cc-4d03-8e4a-7be287d50488 Task timed out after 10.03 seconds"
+}

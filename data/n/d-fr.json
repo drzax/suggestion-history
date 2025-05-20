@@ -1,10 +1,4 @@
-[
-  "netflix",
-  "natixis mon compte",
-  "nike",
-  "netflix connexion",
-  "nvidia",
-  "norauto",
-  "ninite",
-  "notion"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:32:26.037Z 9b835cba-d89a-48bd-a97e-b5afd2eab910 Task timed out after 10.03 seconds"
+}

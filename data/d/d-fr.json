@@ -1,10 +1,4 @@
-[
-  "digiposte mon compte",
-  "deepl",
-  "discord",
-  "doctolib",
-  "déclaration impôts 2025",
-  "drive",
-  "declaration impot sur le revenu",
-  "decathlon"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:30:43.717Z 8860acf0-5903-4472-8682-cac5a51c6acd Task timed out after 10.03 seconds"
+}

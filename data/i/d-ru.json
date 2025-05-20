@@ -1,10 +1,4 @@
-[
-  "instagram",
-  "itunes",
-  "ilovepdf",
-  "icloud",
-  "idle",
-  "intel",
-  "ip адрес",
-  "internet explorer"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:02:46.509Z 12ae3ee9-5138-433d-ba24-8462c8995e28 Task timed out after 10.03 seconds"
+}

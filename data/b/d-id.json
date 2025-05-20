@@ -1,10 +1,4 @@
-[
-  "blooket join",
-  "bing",
-  "best buy",
-  "bank of america",
-  "biden cancer news",
-  "bluetooth",
-  "bay news 9",
-  "block blast"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:45:06.466Z c51a82fc-c5dd-4287-a902-b24728ed3759 Task timed out after 10.03 seconds"
+}

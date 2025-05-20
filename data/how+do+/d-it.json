@@ -1,10 +1,4 @@
-[
-  "how do you do",
-  "how do i get a bing quiz",
-  "how do i say goodbye",
-  "how do plants adapt to their environment",
-  "how do i take a bing quiz",
-  "how do i redeem my bing points",
-  "how do i play the bing homepage quiz",
-  "how do i use the bing homepage quiz"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:51:08.129Z bf39919a-25fb-44fb-a0df-8df17d8af3d6 Task timed out after 10.03 seconds"
+}

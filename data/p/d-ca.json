@@ -1,10 +1,4 @@
-[
-  "pinterest",
-  "prime video",
-  "pga championship leaderboard",
-  "paypal",
-  "poki",
-  "play store",
-  "purolator",
-  "powerpoint"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:27:41.238Z 42569496-d498-4022-ac3a-403ef10fc3e4 Task timed out after 10.03 seconds"
+}

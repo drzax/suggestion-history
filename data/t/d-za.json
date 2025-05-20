@@ -1,10 +1,4 @@
-[
-  "tiktok",
-  "temu",
-  "takealot",
-  "tradingview",
-  "teams",
-  "twitch",
-  "translate",
-  "tubidy mp3 music download"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:13:27.618Z 87e02c2d-eba4-4974-a452-0d9a362551a4 Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "pinterest",
-  "poki",
-  "play store",
-  "prime video",
-  "pdf",
-  "powerpoint",
-  "pelisplus",
-  "pdf a word"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:59:02.317Z 8fbb0c33-0443-4465-a699-3a4113c4079e Task timed out after 10.03 seconds"
+}

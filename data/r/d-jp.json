@@ -1,10 +1,4 @@
-[
-  "楽天市場",
-  "rav4 新型",
-  "楽天トラベル",
-  "楽天証券",
-  "rakuten",
-  "ロイロノート",
-  "roblox",
-  "レターパック 追跡"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:54:10.807Z d29b871f-148b-4b82-bd93-83723679fdba Task timed out after 10.03 seconds"
+}

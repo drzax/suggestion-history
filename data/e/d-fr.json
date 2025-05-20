@@ -1,10 +1,4 @@
-[
-  "ensap mon compte",
-  "eurovision 2025",
-  "educonnect mon compte",
-  "ecoledirecte",
-  "ebay",
-  "epic games",
-  "edf mon compte",
-  "excel"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:30:54.084Z 3d88490b-5f64-4661-bc37-7ea2fa38c64c Task timed out after 10.03 seconds"
+}

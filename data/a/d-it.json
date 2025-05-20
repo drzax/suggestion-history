@@ -1,10 +1,4 @@
-[
-  "agenzia delle entrate accedi",
-  "amazon",
-  "ansa news",
-  "alice mail",
-  "aruba pec",
-  "agenzia delle entrate 730",
-  "anydesk",
-  "aruba webmail"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:47:12.857Z 73f10213-cda3-40a1-b545-1be5ca015fab Task timed out after 10.03 seconds"
+}

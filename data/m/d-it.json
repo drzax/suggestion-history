@@ -1,10 +1,4 @@
-[
-  "maps",
-  "meteo",
-  "mediaset play",
-  "myinps",
-  "msn",
-  "meet",
-  "minecraft",
-  "microsoft 365"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:48:55.167Z 7e324fdf-e021-4ead-9ac9-66bd27d2c62f Task timed out after 10.03 seconds"
+}

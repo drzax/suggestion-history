@@ -1,10 +1,4 @@
-[
-  "bing",
-  "best buy",
-  "biden cancer news",
-  "bank of america",
-  "bluetooth",
-  "broadcastify",
-  "bass pro shops",
-  "bitcoin core"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:24:56.068Z e699e9d4-944b-43e4-b64d-021e569aaf45 Task timed out after 10.03 seconds"
+}

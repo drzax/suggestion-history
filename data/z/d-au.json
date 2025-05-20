@@ -1,10 +1,4 @@
-[
-  "zoom",
-  "zara australia",
-  "zoom meeting",
-  "zara",
-  "zoom download",
-  "zoho",
-  "zero",
-  "zippay"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:24:10.583Z 49cd38b9-79a5-4082-891e-0401525a9398 Task timed out after 10.03 seconds"
+}

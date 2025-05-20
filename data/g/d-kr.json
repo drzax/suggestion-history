@@ -1,10 +1,4 @@
-[
-  "google",
-  "gmail",
-  "google maps",
-  "google chrome",
-  "games",
-  "gimkit",
-  "grammarly",
-  "geometry dash"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:16:17.307Z 08570faf-5bff-41ca-8ae4-6d073a1b82e5 Task timed out after 10.03 seconds"
+}

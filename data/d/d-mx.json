@@ -1,10 +1,4 @@
-[
-  "declaranet 2025",
-  "drive",
-  "discord",
-  "disney plus",
-  "deepseek",
-  "deepl",
-  "declaración anual 2025",
-  "descargar google chrome"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:57:09.618Z a5db6259-0455-4fc8-834d-30db637da362 Task timed out after 10.03 seconds"
+}

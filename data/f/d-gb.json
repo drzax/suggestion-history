@@ -1,10 +1,4 @@
-[
-  "facebook",
-  "fox news",
-  "fidelity investments",
-  "firefox",
-  "facebook marketplace",
-  "fedex tracking",
-  "frontier airlines",
-  "fortnite"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:25:37.047Z a9155a04-9c6b-4406-be40-decdc8f86ea5 Task timed out after 10.03 seconds"
+}

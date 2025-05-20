@@ -1,10 +1,4 @@
-[
-  "spotify",
-  "sharepoint",
-  "scratch",
-  "simpleswap",
-  "steam",
-  "shein",
-  "snapchat",
-  "snipping tool"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:09:34.033Z 579754ba-0635-4047-9bfe-dcc8f7364e4c Task timed out after 10.03 seconds"
+}

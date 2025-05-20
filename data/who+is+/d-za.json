@@ -1,10 +1,4 @@
-[
-  "who is god",
-  "who is elon musk",
-  "who is the richest person in the world",
-  "who is winning the election 2024",
-  "who is my isp",
-  "who is cece",
-  "who is the goat of football",
-  "who is karen read"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:14:39.094Z 439b0b73-1a17-401a-b227-988386c4b112 Task timed out after 10.03 seconds"
+}

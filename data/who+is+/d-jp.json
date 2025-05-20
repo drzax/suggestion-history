@@ -1,10 +1,4 @@
-[
-  "whois ip",
-  "whois 検索",
-  "who is 01806 522243",
-  "who is she",
-  "who is who",
-  "who is your hero",
-  "who is the richest man in the world",
-  "who is prime minister of india"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:55:22.441Z 9afab90a-2689-46e1-925a-ce59082097fc Task timed out after 10.03 seconds"
+}

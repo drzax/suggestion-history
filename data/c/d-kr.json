@@ -1,10 +1,4 @@
-[
-  "chat gpt",
-  "canva",
-  "cnn",
-  "chrome",
-  "calculator",
-  "capital one",
-  "caitlin clark",
-  "copilot"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:15:36.384Z 67b65250-d5c8-4357-9a9f-c3647dc4804b Task timed out after 10.03 seconds"
+}

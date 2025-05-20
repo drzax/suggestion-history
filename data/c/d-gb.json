@@ -1,10 +1,4 @@
-[
-  "clever",
-  "cool math games",
-  "chat gpt",
-  "canva",
-  "chrome",
-  "calculator",
-  "cnn",
-  "college board"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:25:06.383Z 2828d85f-3726-4d7c-98b2-6ac640413f4f Task timed out after 10.03 seconds"
+}

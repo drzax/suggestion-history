@@ -1,10 +1,4 @@
-[
-  "booking",
-  "bruno retailleau",
-  "boursorama",
-  "bnp",
-  "boulanger",
-  "brawl stars",
-  "barème kilométrique 2025",
-  "bing"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:30:23.271Z 6ba26d0c-3bc2-4673-82d7-5ac81c6bd510 Task timed out after 10.03 seconds"
+}

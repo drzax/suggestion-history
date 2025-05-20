@@ -1,10 +1,4 @@
-[
-  "mygov",
-  "maps",
-  "mygov login",
-  "minecraft",
-  "microsoft 365",
-  "messenger",
-  "mail",
-  "microsoft"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:21:57.514Z 08b139c1-2325-4dab-ac53-9b2d23f64ef9 Task timed out after 10.03 seconds"
+}

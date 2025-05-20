@@ -1,10 +1,4 @@
-[
-  "outlook",
-  "orange mail",
-  "ouigo sncf",
-  "orange",
-  "outlook messagerie",
-  "onedrive",
-  "oscaro",
-  "office 365"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:32:36.359Z 2d1f6798-ab15-4e01-99ab-73bea2e99f3d Task timed out after 10.03 seconds"
+}

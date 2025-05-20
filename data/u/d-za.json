@@ -1,10 +1,4 @@
-[
-  "uwc online application 2026",
-  "unisa login",
-  "ulink",
-  "udemy",
-  "under 20 afcon 2025",
-  "usd to zar",
-  "uber eats",
-  "uif login"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:13:37.734Z 42f86bbc-fdb7-46e2-9cdb-70452325aafe Task timed out after 10.03 seconds"
+}

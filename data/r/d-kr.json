@@ -1,10 +1,4 @@
-[
-  "roblox",
-  "reddit",
-  "restaurant near me",
-  "rockauto",
-  "rumble",
-  "rita ora",
-  "rivals",
-  "rarible"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:17:29.097Z e0e9e6b1-cacc-425c-856e-bce12d05ef3f Task timed out after 10.03 seconds"
+}

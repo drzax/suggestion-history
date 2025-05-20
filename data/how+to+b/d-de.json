@@ -1,10 +1,4 @@
-[
-  "how to be a hero",
-  "how to breed villagers",
-  "how to become a tech influencer",
-  "how to be single",
-  "how to bazaar",
-  "how to block ads on my phone",
-  "how to back up computer data",
-  "how to balance tech and life"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:39:23.612Z 41a0ed63-fe23-471f-bd0b-245521e57f73 Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "calculator",
-  "chat gpt",
-  "canva",
-  "copilot",
-  "chrome",
-  "coles",
-  "commbank",
-  "carsales"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:20:35.658Z 7377a4c1-349d-42b4-a49d-4a466f32e47c Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "how to become a notary",
-  "how to boil eggs",
-  "how to back up iphone",
-  "how to buy gold",
-  "how to block a website",
-  "how to bet on preakness 2025",
-  "how to buy stocks",
-  "how to breed villagers"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:19:11.517Z 5c8afef3-7e18-4b7e-bba0-12258cf345ff Task timed out after 10.03 seconds"
+}

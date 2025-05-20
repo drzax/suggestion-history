@@ -1,10 +1,4 @@
-[
-  "who is elijah",
-  "who is the richest person in the world",
-  "whois ip",
-  "who is elon musk",
-  "who is winning the election",
-  "who is jd vance",
-  "who is jesus",
-  "who is diddy"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:24:20.933Z abeaa586-10da-44e9-a0f0-bc589f1fcec6 Task timed out after 10.02 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "inter lazio",
-  "instagram",
-  "ilovepdf",
-  "il portale dell'automobilista",
-  "inps login",
-  "ikea",
-  "intesa sanpaolo",
-  "il meteo"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:48:34.619Z 74c6f830-1ee8-4b6a-b7ba-aa84f0b560ae Task timed out after 10.03 seconds"
+}

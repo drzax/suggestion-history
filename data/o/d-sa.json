@@ -1,10 +1,4 @@
-[
-  "outlook",
-  "ohio lottery",
-  "onedrive",
-  "office 365 login",
-  "old navy",
-  "online casino",
-  "olive garden near me",
-  "opensea"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:09:03.439Z 8081e3a4-f91e-465f-ba5e-6593f42ae3aa Task timed out after 10.03 seconds"
+}

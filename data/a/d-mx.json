@@ -1,10 +1,4 @@
-[
-  "america vs cruz azul",
-  "amazon",
-  "azteca deportes",
-  "azteca 7 en vivo",
-  "anydesk",
-  "airbnb",
-  "aliexpress",
-  "aeroméxico"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:56:39.004Z efbce46a-5f85-4d0f-a672-0f8de33460ad Task timed out after 10.04 seconds"
+}

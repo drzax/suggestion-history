@@ -1,10 +1,4 @@
-[
-  "excel",
-  "epic games",
-  "e-maktab",
-  "edge",
-  "email",
-  "ebay",
-  "excel 2016",
-  "emaktabuz ga kirish"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:02:15.835Z 618d21b5-fdee-410e-b4d9-fb48b9e6f2ae Task timed out after 10.03 seconds"
+}

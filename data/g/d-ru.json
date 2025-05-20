@@ -1,10 +1,4 @@
-[
-  "google",
-  "gmail",
-  "google chrome",
-  "geometry dash",
-  "gimp",
-  "google maps",
-  "gpedit/msc",
-  "geforce experience"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:02:36.303Z ead838c8-fd08-4b59-9488-a00e2a545ff9 Task timed out after 10.03 seconds"
+}

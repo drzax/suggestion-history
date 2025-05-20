@@ -1,10 +1,4 @@
-[
-  "zara",
-  "zalando",
-  "zimbra",
-  "zoom",
-  "zooplus",
-  "zimbra free",
-  "zotero",
-  "zeturf"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:34:08.516Z 9ca264f7-9d40-452a-ad5c-b325cd243bbc Task timed out after 10.03 seconds"
+}

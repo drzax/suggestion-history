@@ -1,9 +1,4 @@
-[
-  "xbox",
-  "xbox cloud gaming",
-  "xbox game pass",
-  "xrp",
-  "xbox app",
-  "xero",
-  "xampp"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:28:42.576Z 42b87700-726d-4bb5-8d3f-564c0fc7dfbf Task timed out after 10.03 seconds"
+}

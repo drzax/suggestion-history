@@ -1,10 +1,4 @@
-[
-  "email",
-  "ebay",
-  "etsy",
-  "epic games",
-  "expedia",
-  "ethan lehouillier",
-  "excel",
-  "elections canada"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:25:59.011Z 2df55c85-d425-4166-a1c8-07a8a00f8d5b Task timed out after 10.03 seconds"
+}

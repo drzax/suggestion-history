@@ -1,10 +1,4 @@
-[
-  "sbi証券ログイン画面",
-  "sansan ログイン",
-  "寿司打",
-  "sbi証券 迷惑メール",
-  "suumo",
-  "steam",
-  "sbi証券証券 ログイン",
-  "sdgsとは"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:54:20.957Z cd8fa1d9-7495-4782-bfbe-5130e38b51b0 Task timed out after 10.03 seconds"
+}

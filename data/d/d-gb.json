@@ -1,10 +1,4 @@
-[
-  "discord",
-  "duckduckgo",
-  "dentitox pro",
-  "daily mail",
-  "download chrome",
-  "disney plus",
-  "doordash",
-  "docs"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:25:16.514Z 2e52f8d1-8d05-47f8-b22f-d63c821dee2b Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "zdf mediathek",
-  "zdf live",
-  "zalando",
-  "zoom",
-  "zara",
-  "zeit online",
-  "zoom login",
-  "zalando lounge"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:39:03.129Z ec7ff3ee-92fc-458c-876e-ede87dfccd57 Task timed out after 10.03 seconds"
+}

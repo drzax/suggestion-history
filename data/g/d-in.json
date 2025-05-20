@@ -1,10 +1,4 @@
-[
-  "gmail",
-  "google",
-  "game",
-  "google chrome",
-  "gmail login",
-  "google translate",
-  "game online",
-  "gst login"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:41:13.843Z 8f7bc471-2015-4bc1-aab8-53cabd10ba8f Task timed out after 10.03 seconds"
+}

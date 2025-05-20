@@ -1,10 +1,4 @@
-[
-  "ebay",
-  "esc 2025",
-  "ebay kleinanzeigen",
-  "eishockey wm 2025",
-  "elster login",
-  "etsy",
-  "epic games",
-  "eventim"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:35:58.777Z 8921ddfc-7562-4fa2-be42-2ba689657839 Task timed out after 10.03 seconds"
+}

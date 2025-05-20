@@ -1,10 +1,4 @@
-[
-  "how do ai agents work",
-  "how do plants adapt to their environment",
-  "how do i take a bing quiz",
-  "how do lava lamps work",
-  "how do i download google chrome",
-  "how do you do meaning",
-  "how do i earn bing rewards points",
-  "how do mushrooms glow"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:44:18.216Z 4ad90273-4e61-4657-b723-298bed54ae2e Task timed out after 10.03 seconds"
+}

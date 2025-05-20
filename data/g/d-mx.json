@@ -1,10 +1,4 @@
-[
-  "google",
-  "gmail",
-  "gemini",
-  "google maps",
-  "google acadêmico",
-  "google drive",
-  "google earth",
-  "geogebra"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:57:40.463Z 9cc149ce-cce6-400a-8406-9bdd738c296a Task timed out after 10.03 seconds"
+}

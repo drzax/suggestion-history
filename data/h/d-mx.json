@@ -1,10 +1,4 @@
-[
-  "hotmail",
-  "hotmail iniciar sesión",
-  "hbo max",
-  "home depot",
-  "hot sale 2025",
-  "hola",
-  "hsbcnet",
-  "hsbc méxico"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:57:50.595Z b41fc0bf-206e-4c6e-becc-e60a39a1ca78 Task timed out after 10.03 seconds"
+}

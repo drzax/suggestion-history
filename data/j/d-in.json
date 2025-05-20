@@ -1,10 +1,4 @@
-[
-  "jiohotstar app",
-  "jio hotstar",
-  "jio cinema",
-  "jasprit bumrah",
-  "jonty rhodes",
-  "jpg to pdf",
-  "jio hotstar offer 2025",
-  "java"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:41:34.377Z 1debb8e2-a747-44ce-9c3c-fdc9da175bc7 Task timed out after 10.04 seconds"
+}

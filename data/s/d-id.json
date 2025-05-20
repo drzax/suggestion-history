@@ -1,10 +1,4 @@
-[
-  "sharepoint",
-  "sugar defender",
-  "spotify",
-  "simpleswap",
-  "sight care",
-  "steam",
-  "snipping tool",
-  "shein"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:46:09.408Z a100a632-1b1a-4de0-bf4d-b23216aa8383 Task timed out after 10.03 seconds"
+}

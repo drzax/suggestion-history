@@ -1,10 +1,4 @@
-[
-  "zoom",
-  "zara",
-  "zoom descargar",
-  "zoho mail",
-  "zendaya",
-  "zoom meeting",
-  "zoho",
-  "zimbra"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:00:44.962Z 5a9c628a-b48d-48db-bc87-a288a67e8f55 Task timed out after 10.03 seconds"
+}

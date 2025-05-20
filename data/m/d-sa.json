@@ -1,10 +1,4 @@
-[
-  "msn",
-  "mariska hargitay",
-  "mlb scores",
-  "macy's",
-  "maps",
-  "memorial day 2025",
-  "minecraft",
-  "mitothrive"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:08:42.962Z 7d747c3c-bf3b-41af-b8d7-cc9b4e93daa9 Task timed out after 10.03 seconds"
+}

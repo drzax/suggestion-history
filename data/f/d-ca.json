@@ -1,10 +1,4 @@
-[
-  "facebook",
-  "facebook login",
-  "firefox",
-  "fox news",
-  "fortnite",
-  "fb",
-  "fedex",
-  "flighthub"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:26:09.168Z 8610537f-7bd1-4f60-b0f3-f015af72a6ef Task timed out after 10.03 seconds"
+}

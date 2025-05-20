@@ -1,10 +1,4 @@
-[
-  "netflix",
-  "nhkプラス",
-  "note",
-  "ニュース",
-  "nifty",
-  "nhk大相撲動画",
-  "nhk大相撲中継",
-  "notion"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:53:39.919Z ee582831-1009-408d-a349-3d9796be84e3 Task timed out after 10.03 seconds"
+}

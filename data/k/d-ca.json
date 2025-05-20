@@ -1,10 +1,4 @@
-[
-  "kijiji",
-  "koodo mobile",
-  "kahoot",
-  "kayak",
-  "kindle",
-  "katy perry",
-  "klm airlines",
-  "kendrick lamar"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:26:50.030Z f401eb46-2144-4d86-b0db-50aa214dc089 Task timed out after 10.03 seconds"
+}

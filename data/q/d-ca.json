@@ -1,10 +1,4 @@
-[
-  "quickbooks",
-  "questrade",
-  "queen victoria",
-  "quizlet",
-  "qbittorrent",
-  "quillbot",
-  "qr code generator",
-  "quickbooks online login"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:27:51.349Z d4a55ee0-9d83-49f5-9e4b-1ad74fb3667e Task timed out after 10.03 seconds"
+}

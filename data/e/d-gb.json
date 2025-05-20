@@ -1,10 +1,4 @@
-[
-  "ebay",
-  "espn",
-  "edgenuity",
-  "etsy",
-  "expedia",
-  "epic games",
-  "email",
-  "enterprise rent a car"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:25:26.836Z ffa31d3c-b89b-40ec-9f29-929d6448539b Task timed out after 10.02 seconds"
+}

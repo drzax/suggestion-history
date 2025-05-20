@@ -1,10 +1,4 @@
-[
-  "e-devlet",
-  "epic games",
-  "eşref rüya son bölüm izle",
-  "excel",
-  "ekran",
-  "edevlet girişi",
-  "e devlet giriş yap",
-  "e-nabız"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:20:42.322Z c3e105ac-c81b-46ab-8f0d-7a761fed2a4a Task timed out after 10.03 seconds"
+}

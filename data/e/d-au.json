@@ -1,10 +1,4 @@
-[
-  "ebay",
-  "email",
-  "epic games",
-  "etsy",
-  "ebay australia",
-  "eurovision 2025",
-  "excel",
-  "emirates"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:20:56.137Z 37e0bf71-6054-48ce-a43a-e05bb94e16f5 Task timed out after 10.03 seconds"
+}

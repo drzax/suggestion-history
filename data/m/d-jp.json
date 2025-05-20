@@ -1,10 +1,4 @@
-[
-  "map",
-  "msn",
-  "モノタロウ",
-  "mlb速報 スポーツナビ",
-  "メルカリ",
-  "mlb 個人成績",
-  "missavが見れなくなりました",
-  "microsoft 365"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:53:29.807Z 03271b2f-4d02-40a2-893e-f53415c617bb Task timed out after 10.03 seconds"
+}

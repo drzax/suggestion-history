@@ -1,10 +1,4 @@
-[
-  "precompilata 2025",
-  "poki",
-  "pinterest",
-  "prime video",
-  "poste italiane",
-  "parma napoli",
-  "partite serie a",
-  "paypal"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:49:25.723Z 3e7cacd8-8fc5-4b6d-a71b-886614371e98 Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "netflix",
-  "noipa area riservata",
-  "napoli calcio",
-  "napoli parma",
-  "now tv",
-  "news",
-  "netflix accedi",
-  "nvidia"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:49:05.284Z b4f30ff2-fe23-4461-94e8-926ada3e194a Task timed out after 10.03 seconds"
+}

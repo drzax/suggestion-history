@@ -1,10 +1,4 @@
-[
-  "windows11 インストール無料",
-  "windows11",
-  "whatsapp web",
-  "wbgt測定器",
-  "webex",
-  "whatsapp",
-  "ウェザーニュース",
-  "wowow オンデマンド"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:54:41.419Z c9dcea93-cffb-4f6f-85c7-d7f4b2bfac38 Task timed out after 10.03 seconds"
+}

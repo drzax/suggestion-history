@@ -1,10 +1,4 @@
-[
-  "facebook",
-  "flipkart",
-  "fitgirl repacks",
-  "free games",
-  "firefox",
-  "fb",
-  "free fire",
-  "flightradar24"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:41:03.518Z c00cd5f7-96aa-4392-8c8e-13bd9449c4f3 Task timed out after 10.03 seconds"
+}

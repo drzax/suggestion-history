@@ -1,10 +1,4 @@
-[
-  "otto versand online",
-  "obi baumarkt",
-  "otto",
-  "outlook",
-  "onedrive",
-  "office 365 login",
-  "opodo flüge",
-  "opera gx"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:37:20.656Z cabb8f3a-016c-4a5f-987f-431f52bc421e Task timed out after 10.03 seconds"
+}

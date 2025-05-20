@@ -1,10 +1,4 @@
-[
-  "discord",
-  "dxdiag",
-  "dizipal",
-  "deepl",
-  "deepseek",
-  "dns",
-  "duvar kağıdı",
-  "diziwatch"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:20:31.977Z b8dfe81c-084f-4345-8800-970d2c3c9fca Task timed out after 10.03 seconds"
+}

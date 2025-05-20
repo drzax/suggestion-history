@@ -1,10 +1,4 @@
-[
-  "kick",
-  "kronometre",
-  "kamera",
-  "kahoot",
-  "kurban bayrami ne zaman 2025",
-  "kral oyun",
-  "kariyer",
-  "kapatma tuşu"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:21:33.387Z 7c738804-d03d-4bf7-a70d-7186e157736e Task timed out after 10.03 seconds"
+}

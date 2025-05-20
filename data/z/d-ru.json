@@ -1,10 +1,4 @@
-[
-  "zoom",
-  "zona",
-  "zara",
-  "zoom войти",
-  "zapret-discord-youtube",
-  "zip",
-  "zona фильмы",
-  "zenless zone zero"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:05:30.365Z 51a2a8db-f472-4af5-ad14-ba6d58ae496a Task timed out after 10.03 seconds"
+}

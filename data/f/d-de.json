@@ -1,10 +1,4 @@
-[
-  "freddy quinn",
-  "facebook",
-  "facebook login",
-  "focus",
-  "firefox",
-  "freenet",
-  "fortnite",
-  "fernsehprogramm heute"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:36:08.887Z 984c235d-ea82-495c-9030-947f4e295a89 Task timed out after 10.03 seconds"
+}

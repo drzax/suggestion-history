@@ -1,10 +1,4 @@
-[
-  "how do tariffs work",
-  "how do you say seal in french",
-  "how do i find my usi",
-  "how do i take a screenshot",
-  "how do i clear my cache",
-  "how do solar panels work",
-  "how do i say goodbye",
-  "how do volcanoes erupt"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:24:41.400Z 4862c676-3232-4f62-809d-f7de145308f2 Task timed out after 10.03 seconds"
+}

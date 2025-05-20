@@ -1,10 +1,4 @@
-[
-  "linkedin",
-  "lotto max",
-  "leafs game tonight",
-  "leafs",
-  "lululemon",
-  "leafs vs panthers",
-  "lego",
-  "lee valley tools"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:27:00.355Z cc0e6089-a5da-4fbc-91af-ffefa0103342 Task timed out after 10.03 seconds"
+}

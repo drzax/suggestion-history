@@ -1,10 +1,4 @@
-[
-  "how to buy bitcoin",
-  "how to breed villagers",
-  "how to build a pc",
-  "how to boil eggs",
-  "how to be happy",
-  "how to become rich",
-  "how to buy stocks",
-  "how to back up iphone"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:29:23.500Z a5d56ca4-2020-4359-aebc-65a6b42b3050 Task timed out after 10.03 seconds"
+}

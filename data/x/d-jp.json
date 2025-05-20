@@ -1,10 +1,4 @@
-[
-  "x twitter ログイン",
-  "xlookup 使い方",
-  "xg メンバー",
-  "xbox",
-  "xvid video codec",
-  "xserver",
-  "xlookup",
-  "xbox game pass"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:54:51.752Z 921b5980-40a9-40ce-830d-adbda71dcbfc Task timed out after 10.03 seconds"
+}

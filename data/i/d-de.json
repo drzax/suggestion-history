@@ -1,10 +1,4 @@
-[
-  "instagram",
-  "ikea",
-  "ikea deutschland",
-  "idealo",
-  "indeed",
-  "immobilienscout24",
-  "icloud",
-  "indeed jobs"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:36:19.221Z 9256542e-a9cd-406d-a34e-91dc8534ec2b Task timed out after 10.03 seconds"
+}

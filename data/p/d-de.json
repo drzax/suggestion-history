@@ -1,10 +1,4 @@
-[
-  "poki",
-  "perplexity",
-  "paypal",
-  "pinterest",
-  "prime video",
-  "personio login",
-  "porto brief 2025",
-  "postbank"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:37:30.793Z 30c7e8ad-98bc-4bce-9699-149d2079ac79 Task timed out after 10.03 seconds"
+}

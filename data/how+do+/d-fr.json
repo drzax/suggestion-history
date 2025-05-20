@@ -1,10 +1,4 @@
-[
-  "how do you feel",
-  "how do you do",
-  "how do i say goodbye",
-  "how do plants adapt to their environment",
-  "how do you sleep",
-  "how do i provide feedback",
-  "how do i get help on windows 11",
-  "how do you feel anthony browne"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:34:39.327Z f7d47628-ee9c-43ab-805f-75fd3f2e8ed7 Task timed out after 10.02 seconds"
+}

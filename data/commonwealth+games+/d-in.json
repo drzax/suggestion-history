@@ -1,10 +1,4 @@
-[
-  "commonwealth games 2026",
-  "commonwealth games 2025",
-  "commonwealth games 2024",
-  "commonwealth games 2022",
-  "commonwealth games scam",
-  "commonwealth games 2010",
-  "commonwealth games india",
-  "commonwealth games 2023"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:44:28.354Z efd70fb3-ef97-4c70-847d-2da7e63e8ce2 Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "woolworths supermarkets",
-  "wordle",
-  "westpac",
-  "woolworths",
-  "webjet",
-  "whatsapp",
-  "weather",
-  "westpac online banking"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:23:39.923Z 7b64dd17-d1d2-4b8d-8d12-685068baec16 Task timed out after 10.03 seconds"
+}

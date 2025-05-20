@@ -1,10 +1,4 @@
-[
-  "chat gpt",
-  "canva",
-  "chrome",
-  "cevırı",
-  "copilot",
-  "casino maxi",
-  "crazy games",
-  "craftrise"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:20:21.834Z b7f5809a-9220-4304-a8fb-02080ed5a191 Task timed out after 10.03 seconds"
+}

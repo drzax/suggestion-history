@@ -1,10 +1,4 @@
-[
-  "roblox",
-  "rufus",
-  "recycle bin",
-  "reddit",
-  "rain",
-  "real madrid",
-  "roblox download",
-  "roblox login"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:13:07.128Z ed0835ae-9167-47d9-98c6-df0dd9c2502f Task timed out after 10.03 seconds"
+}

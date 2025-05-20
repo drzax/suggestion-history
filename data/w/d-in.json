@@ -1,10 +1,4 @@
-[
-  "whatsapp web",
-  "whatsapp",
-  "wordpad",
-  "windy",
-  "winrar",
-  "wayne rooney",
-  "wattpad",
-  "word to pdf converter"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:43:26.906Z c40bd2f9-96f6-4beb-9f10-316eeab8e166 Task timed out after 10.03 seconds"
+}

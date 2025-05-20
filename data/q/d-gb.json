@@ -1,10 +1,4 @@
-[
-  "qvc",
-  "quizlet",
-  "quickswap dex",
-  "quillbot",
-  "quickbooks online login",
-  "quince clothing",
-  "quordle",
-  "quest diagnostics"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:27:19.298Z 6b7ce222-3c79-429c-84c6-83405c961039 Task timed out after 10.03 seconds"
+}

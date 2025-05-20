@@ -1,10 +1,4 @@
-[
-  "netflix",
-  "netflix login",
-  "news24",
-  "nmu online application",
-  "notepad++",
-  "nedbank internet banking",
-  "nike",
-  "netnaija"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:12:26.233Z ee634a66-5716-4062-8eae-997261740596 Task timed out after 10.03 seconds"
+}

@@ -1,10 +1,4 @@
-[
-  "hd film cehennemi",
-  "hesap makinesi",
-  "haberler",
-  "hepsiburada",
-  "hotmail giriş",
-  "hovarda",
-  "hotmail",
-  "hız testi"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:21:12.918Z 9ffd0931-5b18-47a9-b3ee-74616bbc6c56 Task timed out after 10.03 seconds"
+}

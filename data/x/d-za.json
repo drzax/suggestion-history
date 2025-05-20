@@ -1,9 +1,4 @@
-[
-  "xero login",
-  "xbox",
-  "xampp",
-  "xero",
-  "xm login",
-  "xfinity stream",
-  "xds log in"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:14:08.523Z 49d59e3f-2434-47ff-8ab3-d2fb90f3e8cd Task timed out after 10.03 seconds"
+}

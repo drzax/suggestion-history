@@ -1,10 +1,4 @@
-[
-  "maps",
-  "manomano",
-  "mypeopledoc mon compte",
-  "mappy",
-  "msn",
-  "meteo france",
-  "mail",
-  "mytf1"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:32:15.838Z f01f6314-663b-45f0-accb-20db97c92471 Task timed out after 10.03 seconds"
+}

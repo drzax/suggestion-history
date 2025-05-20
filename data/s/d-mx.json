@@ -1,10 +1,4 @@
-[
-  "sat",
-  "spotify",
-  "sat devoluciones",
-  "sam's club",
-  "shein",
-  "steam",
-  "santander",
-  "serie a"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:59:32.991Z 1f388b8a-23c3-4583-a4f4-9efe5beb7d9a Task timed out after 10.03 seconds"
+}

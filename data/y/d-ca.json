@@ -1,10 +1,4 @@
-[
-  "youtube",
-  "yahoo mail",
-  "yahoo",
-  "youtube music",
-  "yahoo finance",
-  "yandex",
-  "youtube to mp3",
-  "yahoo mail login"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T19:28:52.707Z f84b0f61-45ff-40f1-8381-f5d989ca8c1d Task timed out after 10.02 seconds"
+}

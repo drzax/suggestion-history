@@ -1,10 +1,4 @@
-[
-  "youtube",
-  "yandex",
-  "yazicilar ve tarayicilar",
-  "youtube music",
-  "yapı kredi",
-  "yandex mail",
-  "yazici ve aygitlar",
-  "yahoo"
-]
+{
+  "errorType": "LambdaTimeout",
+  "errorMessage": "2025-05-20T20:23:56.611Z 49bb71ee-e685-40aa-ba5a-17609d39ea36 Task timed out after 10.03 seconds"
+}
