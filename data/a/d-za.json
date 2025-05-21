@@ -1,4 +1,10 @@
-{
-  "errorType": "LambdaTimeout",
-  "errorMessage": "2025-05-20T20:10:43.613Z fbbb63d7-bcad-4c70-a6a1-599cb234ceb7 Task timed out after 10.03 seconds"
-}
+[
+  "anydesk",
+  "amazon",
+  "airbnb",
+  "autotrader",
+  "absa online banking",
+  "adobe acrobat",
+  "aliexpress",
+  "ai detector"
+]

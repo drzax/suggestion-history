@@ -1,4 +1,10 @@
-{
-  "errorType": "LambdaTimeout",
-  "errorMessage": "2025-05-20T19:22:28.197Z 55dbeba8-2e10-4d09-ae62-40f2a8974a6d Task timed out after 10.02 seconds"
-}
+[
+  "pinterest",
+  "poki",
+  "paypal",
+  "powerpoint",
+  "play store",
+  "prime video",
+  "proda login",
+  "prodigy"
+]

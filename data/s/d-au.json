@@ -1,4 +1,10 @@
-{
-  "errorType": "LambdaTimeout",
-  "errorMessage": "2025-05-20T19:22:58.985Z 18cf8002-7d9d-492e-98b3-738279034288 Task timed out after 10.03 seconds"
-}
+[
+  "seek jobs",
+  "spotify",
+  "shein",
+  "stan",
+  "steam",
+  "scratch",
+  "skyscanner",
+  "sharepoint"
+]

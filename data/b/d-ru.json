@@ -1,4 +1,10 @@
-{
-  "errorType": "LambdaTimeout",
-  "errorMessage": "2025-05-20T20:01:44.993Z f0e3f0d3-3fa6-4e7c-93a8-95d9dfd78f41 Task timed out after 10.03 seconds"
-}
+[
+  "bluetooth",
+  "blender",
+  "bing",
+  "blur",
+  "bios",
+  "bluestacks",
+  "booking",
+  "bybit"
+]

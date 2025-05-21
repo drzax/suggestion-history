@@ -1,4 +1,10 @@
-{
-  "errorType": "LambdaTimeout",
-  "errorMessage": "2025-05-20T20:15:56.831Z cc5ae92c-d0ac-46e1-8347-b3d24bf9e46f Task timed out after 10.03 seconds"
-}
+[
+  "ebay",
+  "espn",
+  "etsy",
+  "expedia",
+  "epic games",
+  "email",
+  "excel",
+  "enterprise rent a car"
+]

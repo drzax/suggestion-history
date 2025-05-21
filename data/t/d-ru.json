@@ -1,4 +1,10 @@
-{
-  "errorType": "LambdaTimeout",
-  "errorMessage": "2025-05-20T20:04:28.887Z 626e06db-76ea-4ec6-96eb-b2df9bc81436 Task timed out after 10.02 seconds"
-}
+[
+  "telegram",
+  "tiktok",
+  "twitch",
+  "torrent",
+  "teams",
+  "tlauncher",
+  "translate",
+  "total commander"
+]

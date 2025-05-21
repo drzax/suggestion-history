@@ -1,4 +1,10 @@
-{
-  "errorType": "LambdaTimeout",
-  "errorMessage": "2025-05-20T20:30:09.867Z 41b84408-6d27-45cf-8ec4-054e2d60a510 Task timed out after 10.03 seconds"
-}
+[
+  "chat gpt",
+  "canva",
+  "cnn",
+  "chrome",
+  "calculator",
+  "costco",
+  "copilot",
+  "capital one"
+]

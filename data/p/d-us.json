@@ -1,4 +1,10 @@
-{
-  "errorType": "LambdaTimeout",
-  "errorMessage": "2025-05-20T20:32:12.874Z 2fe0608e-dca7-4ea4-b5ae-655ba68bd09f Task timed out after 10.03 seconds"
-}
+[
+  "pinterest",
+  "paylocity",
+  "poki",
+  "paypal",
+  "peacock",
+  "prime video",
+  "pandora",
+  "powerpoint"
+]

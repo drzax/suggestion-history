@@ -1,4 +1,10 @@
-{
-  "errorType": "LambdaTimeout",
-  "errorMessage": "2025-05-20T20:17:49.584Z 16ed45fe-ac67-4807-98ab-72874a9ca8fd Task timed out after 10.03 seconds"
-}
+[
+  "teams login",
+  "twitch",
+  "tiktok",
+  "turbotax",
+  "translate",
+  "twitter",
+  "target",
+  "t mobile sign in"
+]
