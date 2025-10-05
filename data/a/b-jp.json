@@ -1,14 +1,4 @@
-[
-  "amazon",
-  "amazon prime",
-  "aol",
-  "amazon chime",
-  "adobe acrobat",
-  "airbnb",
-  "anydesk",
-  "adp",
-  "atera login",
-  "american airlines",
-  "amtrak",
-  "apple music"
-]
+{
+  "errorType": "Sandbox.Timedout",
+  "errorMessage": "RequestId: e20aa4ad-c348-4534-a45d-470cda5ab807 Error: Task timed out after 10.00 seconds"
+}
