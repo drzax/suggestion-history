@@ -1,14 +1,4 @@
-[
-  "bunnings",
-  "blooket play",
-  "barnaby joyce",
-  "bing",
-  "bom radar",
-  "bbc news",
-  "bbc",
-  "booking",
-  "budget direct",
-  "bankwest",
-  "beyond live",
-  "bizzo casino"
-]
+{
+  "errorType": "Sandbox.Timedout",
+  "errorMessage": "RequestId: 923b7bc0-3bf8-4c83-a465-22c4cfeb4a69 Error: Task timed out after 10.00 seconds"
+}

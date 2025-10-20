@@ -1,14 +1,4 @@
-[
-  "amazon",
-  "air canada",
-  "airbnb",
-  "amazon prime",
-  "adobe acrobat",
-  "ace frehley",
-  "aliexpress",
-  "arc raiders",
-  "adp",
-  "aritzia",
-  "apple",
-  "amazon canada"
-]
+{
+  "errorType": "Sandbox.Timedout",
+  "errorMessage": "RequestId: 4c0b0afb-a0cd-4dde-85b8-aae141cc4537 Error: Task timed out after 10.00 seconds"
+}
