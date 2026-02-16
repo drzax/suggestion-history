@@ -1,7 +1,6 @@
 [
   "spotify",
   "네이버",
-  "soundcloud",
   "steam",
   "soop",
   "soop 아프리카tv",
@@ -10,5 +9,6 @@
   "네이트",
   "skyscanner",
   "srt",
-  "넷플릭스"
+  "넷플릭스",
+  "slack"
 ]
