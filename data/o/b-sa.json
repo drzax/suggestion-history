@@ -1,5 +1,4 @@
 [
-  "onedrive",
   "outlook",
   "outlook 365",
   "office 365",
@@ -7,8 +6,9 @@
   "odoo",
   "opera",
   "oracle",
-  "oracle login",
+  "outlook email login",
   "openai",
-  "outlook email",
-  "office"
+  "onedrive login",
+  "office",
+  "opera gx"
 ]
